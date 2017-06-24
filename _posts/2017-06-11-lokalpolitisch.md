@@ -1,4 +1,8 @@
-# Lokalpolitisch
+---
+layout: post
+title: Lokalpolitisch
+date: 2017-06-11
+---
 
 An einem Tag setzte Friedrich sich hin, schrieb einige Zeilen und beendete sein neuestes Projekt. Ohne Unterbrechung fing er das nächste an, während der Vorgänger samt Dokumentation seinen Weg als Vorschlag zur Lokalpolitik fand. Friedrich schrieb und schrieb, doch des weiteren recherchierte und recherchierte und fluchte und fluchte er im Rahmen seines neuen Projektes. Er mochte es, das Neue, dann hasste und dann liebte er es.
 
