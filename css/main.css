@@ -111,7 +111,7 @@ nav a {
 	    padding-top: .2em;
     	padding-bottom: .2em;
 	    padding-right: .5em;
-    	padding-left: .5em;
+    	padding-left: 0em;
 
         margin-top: .5em;
         margin-left: 0;
@@ -126,12 +126,20 @@ nav a.active {
 
 /* content */
 
+.container {
+    margin-top: 3em;
+}
+
 .container, footer {
     font-size: 90%;
     line-height: 1.8em;
     padding-top: 3em;
     padding-left: 2em;
     font-family: "Merriweather Light", Times, "Times New Roman", serif;
+}
+
+.container p + p {
+	text-indent: 2em;
 }
 
 
@@ -151,14 +159,18 @@ nav a.active {
 	border-bottom-style: solid;
 	border-bottom-width: 1px;
 	border-bottom-color: #bbbbbb;
+}
 
+footer li {
+    list-style-type: none;
+    margin-bottom: 2em;
 }
 
 /* external links in paragraph in content div */
-#content a[href^='http']:not([href^='http://jan.ink']):not([href^='https://jan.ink']):after {
+.container a[href^='http']:not([href^='http://jan.ink']):not([href^='https://jan.ink']):after {
 	content: '►';
 	margin-left: .3em;
-	color: #ddd;
+	color: #bbbbbb;
 }
 
 
