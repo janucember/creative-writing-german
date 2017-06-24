@@ -13,5 +13,3 @@ Sehr geehrter Friedrich, so fing es an, vielen Dank für Ihre Nachricht. Ich war
 Friedrich, von Aufregung ganz heiß gelaufen, sattelte sein Rad und fuhr zur Lokalpolitik, die ihn schon sehnsüchtig erwartete. Sie setzten sich beide hin, Friedrich und die Lokalpolitik, und besprachen das alte Projekt und wie man es umsetzen könne. Und da fiel den beiden auf, dass sie sich hervorragend Ergänzen würden, denn alles waren da: Die Intelligenz des einen und die Informationen der anderen verschmolzen und heraus kam das System, das die Stadt veränderte.
 
 Als Friedrich dann nach Hause schnellte, war alles anders, besser. Er fuhr gleich drei Mal schneller, freute sich drei Mal mehr über Mülleimer, Verbote und andere Klarheiten. Auch alle anderen waren drei Mal schneller unterwegs und freuten sich sehr. Sie lebten Friedrichs Utopie, deren Hälfte schon wunderbar wäre.
-
-(2017-06-11)
