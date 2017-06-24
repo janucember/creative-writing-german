@@ -33,7 +33,8 @@ body {
     color: white;
     text-align: center;
     font-size: 1.4em;
-    font-family: "Merriweather Light", Times, "Times New Roman", serif;
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
 
     text-transform: lowercase;
     margin-bottom: .8em;
@@ -57,7 +58,8 @@ body {
 nav {
     vertical-align: middle;
     text-transform: lowercase;
-    font-family: SourceSansPro, Helvetica, sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
     font-size: 1.3em;
 }
 
@@ -135,7 +137,8 @@ nav a.active {
     line-height: 1.8em;
     padding-top: 3em;
     padding-left: 2em;
-    font-family: "Merriweather Light", Times, "Times New Roman", serif;
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
 }
 
 .container p + p {
@@ -146,7 +149,7 @@ nav a.active {
 /* headings */
 .container h1 {
     font-size: 3.5em;
-    font-family: SourceSansPro, "Helvetica Neue", sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: 200;
 
     line-height: 1em;
