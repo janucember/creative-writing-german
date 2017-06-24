@@ -18,7 +18,13 @@
           <div class="container">
 
           {{ content }}
-          does this work? {% if p.url == page.url %}<p>yes</p>{% endif %}
+
+          <p>p.url: {{ p.url }}</p>
+          <p>url: {{ url }}</p>
+          <p>link.url: {{ link.url }}</p>
+          <p>page.url: {{ page.url }}</p>
+
+          {% if url == link.url %}class="active"{% endif %}
 
           </div><!-- /.container -->
           <footer>
