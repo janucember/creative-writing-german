@@ -6,6 +6,9 @@ title: Kurzgeschichten und Anderes
 <ul class="posts">
 
   {% for post in site.posts %}
-    <li><strong><span>{{ post.date | date_to_string }}</span>:</strong> <a href="/creative-writing-german{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    <li>
+        <strong><span>{{ post.date | date_to_string }}</span>:</strong> <a href="/creative-writing-german{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        <p>{{ post.excerpt }}</p>
+    </li>
   {% endfor %}
 </ul>
