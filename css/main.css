@@ -26,11 +26,27 @@ body {
     margin-right: auto;
 }
 
+/* header */
+
+#header {
+    height: 3em;
+    background-color: #000000;
+}
+
+#wrapper {
+    padding-left: 10em;
+}
+
 /* navigation */
 
 nav {
     vertical-align: middle;
+    text-transform: lowercase;
 }
+
+
+
+/* list */
 
 nav ul {
     overflow: hidden;
@@ -39,14 +55,16 @@ nav ul {
 
 @media only screen and (min-width: 830px) {
     nav ul {
-        padding-left: 10em;
+/*         padding-left: 10em; */
     }
 }
 
 
+
+/* list item */
+
 nav li {
     display: inline;
-/*     float: left; */
     list-style-type: none;
     padding: 0;
     margin-top: .5em;
@@ -54,8 +72,10 @@ nav li {
     margin-right: 2em;
 }
 
-nav li:hover {
-    background-color: #fb055f;
+@media only screen and (min-width: 830px) {
+    nav li {
+        float: left;
+    }
 }
 
 nav a {
@@ -68,33 +88,40 @@ nav a {
     
     font-family: Helvetica, Arial, sans-serif;
     font-size: 1.3em;
+    text-align: center;
     color: #000000;
     text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #fb055f;
 }
 
 /* content */
 
 .container {
     padding-top: 3em;
-    padding-left: 1.5em;
+/*     padding-left: 1.5em; */
 }
 
 /* footer */
 
 footer {
     padding-top: 3em;
-    padding-left: 1.5em;
+/*     padding-left: 1.5em; */
 }
 
-@media only screen and (min-width: 830px) {
+/* @media only screen and (min-width: 830px) {
     .container, footer {
         padding-left: 10.7em;
     }
-}
+} */
 
 /* headings */
 h1 {
-    font-family: Helvetica, Arial, sans-serif;
+    font-size: 3.5em;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-weight: 200;
     
     padding-bottom: 1em;
 }
