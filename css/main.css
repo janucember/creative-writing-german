@@ -128,11 +128,11 @@ nav a.active {
 
 /* content */
 
-.container {
+#content {
     margin-top: 3em;
 }
 
-.container, footer {
+#container, footer {
     font-size: 90%;
     line-height: 1.8em;
     padding-top: 3em;
@@ -141,13 +141,13 @@ nav a.active {
     font-weight: 300;
 }
 
-.container p + p {
+#container p + p {
 	text-indent: 2em;
 }
 
 
 /* headings */
-.container h1 {
+#container h1 {
     font-size: 3.5em;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 200;
@@ -157,7 +157,7 @@ nav a.active {
     padding-bottom: 1em;
 }
 
-.container a, footer a {
+#container a, footer a {
 	color: black;
 	text-decoration: none;
 
@@ -172,7 +172,7 @@ footer li {
 }
 
 /* external links in paragraph in content div */
-.container a[href^='http']:not([href^='http://jan.ink']):not([href^='https://jan.ink']):after {
+#container a[href^='http']:not([href^='http://jan.ink']):not([href^='https://jan.ink']):after {
 	content: '►';
 	margin-left: .3em;
 	color: #bbbbbb;
