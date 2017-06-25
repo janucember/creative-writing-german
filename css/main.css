@@ -178,7 +178,6 @@ nav a.active {
 
 #inhalt {
     line-height: 1.9;
-    margin-bottom: 3em;
 }
 
 #inhalt p + p {
@@ -223,18 +222,21 @@ nav a.active {
 
 }
 
-@media only screen an (min-width: 830px) {
-    #inhalt {
-        line-height: 2;
-    }
+@media only screen and (min-width: 830px) {
+	margin-bottom: 3em;
 }
 
 footer {
-	padding-bottom: 5em;
+    padding-bottom: 1em;
 }
 
-footer li {
-    float: left;
-    list-style-type: none;
-    padding-right: 1em;
+@media only screen and (min-width: 830px) {
+    footer {
+        padding-bottom: 5em;
+    }
+    footer li {
+        float: left;
+        list-style-type: none;
+        padding-right: 1em;
+    }
 }
