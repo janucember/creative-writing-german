@@ -1,31 +1,48 @@
 <!DOCTYPE html>
-  <html>
-    <head>
-      <title>{{ page.title }}</title>
-      <!-- link to main stylesheet -->
-      <link rel="stylesheet" type="text/css" href="/creative-writing-german/css/main.css">
-      <link href="https://fonts.googleapis.com/css?family=Merriweather:300|Source+Sans+Pro:200,400" rel="stylesheet">
-    </head>
-    <body>
-      <div id="header">Jan Grosche</div>
-      <div id="wrapper">
-      <nav>
-          <ul>
-              <li><a {% if page.url == "/" %}class="active"{% endif %} href="/creative-writing-german">Texte</a></li>
+    <html>
+        <head>
+            <meta name="format-detection" content="telephone=no">
+            <meta name="viewport" content="initial-scale=1.0">
 
-              <li><a {% if page.url == "/kontakt.html" %}class="active"{% endif %} href="/creative-writing-german/kontakt">Kontakt</a></li>
-          </ul>
-      </nav>
-          <div class="container">
+            <title>{{ page.title }}</title>
 
-          {{ content }}
+            <link rel="stylesheet" type="text/css" href="/creative-writing-german/css/main.css"> <!-- link to main stylesheet -->
+            <link href="https://fonts.googleapis.com/css?family=Merriweather:300|Source+Sans+Pro:200,400" rel="stylesheet"> <!-- google fonts -->
+        </head>
 
-          </div><!-- /.container -->
-          <footer>
-              <ul>
-                  <li><a href="https://github.com/janucember">github.com/janucember</a></li>
-            </ul>
-          </footer>
-        </div><!--#wrapper-->
-    </body>
-  </html>
+        <body>
+
+<!-- kopfzeile -->
+            <div id="head_wrapper">
+                <div id="header">Jan Grosche</div> <!-- -->
+            </div>
+
+<!-- wrapper -->
+            <div id="main_wrapper">
+
+<!-- navigation -->
+                <nav>
+                    <ul>
+                        <li><a {% if page.url == "/" %}class="active"{% endif %} href="/creative-writing-german">Texte</a></li>
+
+                        <li><a {% if page.url == "/kontakt.html" %}class="active"{% endif %} href="/creative-writing-german/kontakt">Kontakt</a></li>
+                    </ul>
+                </nav>
+
+<!-- inhalt -->
+                <div id="container">
+                    {{ content }}
+                </div> <!-- #container -->
+
+<!-- fusszeile -->
+                <footer>
+                    <ul>
+                        <li><a href="https://github.com/janucember">github.com/janucember</a></li>
+
+                        <li><a href="https://jan.ink">jan.ink</a></li>
+                    </ul>
+                </footer>
+
+            </div> <!-- #wrapper -->
+        </body>
+    </html>
