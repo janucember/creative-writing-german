@@ -14,35 +14,42 @@
 
 <!-- kopfzeile -->
             <div id="head_wrapper">
-                <div id="header">Jan Grosche</div> <!-- -->
-            </div>
-
-<!-- navigation -->
-            <nav>
-                <ul>
-                    <li><a {% if page.url == "/" %}class="active"{% endif %} href="/creative-writing-german">Texte</a></li>
-
-                    <li><a {% if page.url == "/kontakt.html" %}class="active"{% endif %} href="/creative-writing-german/kontakt">Kontakt</a></li>
-                </ul>
-            </nav>
+                <div id="head_nav"></div> <!-- width analouge to nav -->
+                <div id="head_text">Jan Grosche</div> <!-- site title -->
+            </div> <!-- #head_wrapper -->
 
 <!-- wrapper -->
             <div id="main_wrapper">
 
+<!-- navigation -->
+                <nav>
+                    <ul>
+                        <li><a {% if page.url == "/" %}class="active"{% endif %} href="/creative-writing-german">Texte</a></li>
+
+                        <li><a {% if page.url == "/kontakt.html" %}class="active"{% endif %} href="/creative-writing-german/kontakt">Kontakt</a></li>
+                    </ul>
+                </nav>
+
+
+<!-- main column -->
+                <div id="main_column">
+
 <!-- inhalt -->
-                <div id="container">
-                    {{ content }}
-                </div> <!-- #container -->
+                    <div id="inhalt">
+                        {{ content }}
+                    </div>
 
 <!-- fusszeile -->
-                <footer>
-                    <ul>
-                        <li><a href="https://github.com/janucember">github.com/janucember</a></li>
+                    <footer>
+                        <ul>
+                            <li><a href="https://github.com/janucember">github.com/janucember</a></li>
 
-                        <li><a href="https://jan.ink">jan.ink</a></li>
-                    </ul>
-                </footer>
+                            <li><a href="https://jan.ink">jan.ink</a></li>
+                        </ul>
+                    </footer>
 
-            </div> <!-- #wrapper -->
+                </div> <!-- #main_column -->
+
+            </div> <!-- #main_wrapper -->
         </body>
     </html>

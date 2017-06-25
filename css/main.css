@@ -44,9 +44,9 @@ body {
 
 
 
-/* wrapper */
+/* main wrapper */
 @media only screen and (min-width: 650px) {
-	#wrapper {
+	#main_wrapper {
 		width: 650px;
         margin-left: auto;
         margin-right:auto;
@@ -87,6 +87,11 @@ nav li {
 }
 
 @media only screen and (min-width: 600px) {
+    nav {
+            width: 150px;
+        	float: none;
+    }
+    
     nav li {
         float: left;
         margin: 0;
