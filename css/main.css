@@ -107,7 +107,7 @@ nav a {
     letter-spacing: .2em;
 
     padding-left: .5em;
-    padding-right: 0;
+    padding-right: .3em;
     padding-top: .1em;
     padding-bottom: .2em;
 }
@@ -126,6 +126,8 @@ nav a.active {
 
     nav a {
         display: inline;
+
+        padding-right: 0;
 
         font-weight: 400;
         font-size: 1.2em;
