@@ -15,6 +15,7 @@
 }
 
 body {
+    -webkit-text-size-adjust: none;
     background-color: #f0f0f0;
 }
 
@@ -127,11 +128,15 @@ nav a.active {
         display: inline;
         
         font-weight: 400;
-        font-size: 1.3em;
+        font-size: 1.2em;
     }
     
     nav ul {
         padding-bottom: none;
+    }
+    
+    nav li {
+		margin-bottom: .5em;
     }
 }
 
@@ -150,6 +155,7 @@ nav a.active {
     
     font-family: "Merriweather", Times, "Times New Roman", serif;
     font-weight: 200;
+    font-size: .9em;
 }
 
 #main_column a {
@@ -169,7 +175,7 @@ nav a.active {
 
 
 #inhalt {
-    line-height: 1.7;
+    line-height: 1.9;
     margin-bottom: 3em;
 }
 
@@ -184,11 +190,19 @@ nav a.active {
     
     line-height: 1;
     
-    margin-bottom: .5em;
+    margin-bottom: .8em;
 }
 
 #inhalt li {
 	list-style-position: inside;
+}
+
+#inhalt .posts > li {
+    list-style-type: none;
+}
+
+#inhalt .posts > li + li {
+    margin-top: 2em;
 }
 
 #inhalt a, footer a {
