@@ -1,10 +1,10 @@
 /* selection colours */
 ::selection {
-	background: #00c8ff; /* Safari */
+	background: #00ccff; /* Safari */
 	color: #f0f0f0;
 	}
 ::-moz-selection {
-	background: #00c8ff; /* Firefox */
+	background: #00ccff; /* Firefox */
 	color: #f0f0f0;
 }
 
@@ -24,7 +24,7 @@ body {
 /********/
 
 #head_bar {
-    background-color: #00c8ff;
+    background-color: #00ccff;
 	display: inline-block;
     width: 100%;
 	font-family: "Merriweather", Times, "Times New Roman", serif;
@@ -114,7 +114,7 @@ nav a {
 
 nav a.active {
     color: #f0f0f0;
-    background-color: #00c8ff;
+    background-color: #00ccff;
 }
 
 @media only screen and (min-width: 830px) {
