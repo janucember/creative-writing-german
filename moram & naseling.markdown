@@ -1,5 +1,5 @@
-# Moram & Naseling
-## 2017-06-24
+Moram & Naseling
+================
 
 Die Stadt Moram hatte schon immer dort gestanden, wo sie auch heute noch steht. Schon seit den Anfangszeiten der Erde war Moram dort und auch die Moramer hatten schon immer an dieser Stelle des Planeten ihre Häuser erbaut, abgerissen und neu erbaut. Die wenigsten Häuser sind noch aus der Gründerzeit, denn die Veränderung macht vor nichts Halt. Manche Dinge, aber auch Menschen, erhalten eine Schonfrist, wie Frau Peters, die eigentlich schon vor zwei Jahren hätte sterben sollen, stattdessen aber weiterhin ihre Nachbarn belästigt und Rente bezieht.
 
@@ -14,3 +14,5 @@ Ein ganz anderes Bild zeigt sich den Einwohnern der Stadt Naseling. Erst gestern
 Bei jedem Neuaufbau wird Herr Ottto erneut als Bürgermeister der hippen Metropole neugewählt. Er ist dafür verantwortlich, dass sich die Einwohnerinnen und Einwohner der Stadt nicht anfangen zu langweilen. In der neuen Nachbarschaft der mittleren Frau Peters munkelte man, dass Otto pro Tag zwei komplette Städte plant.
 
 Jeden Winter am kürzesten Tag des Jahres kommen die Einwohner der beiden Städte auf der Hälfte der Strecke zwische ihnen für eine Feierlichkeit zusammen, die die einzige Möglichkeit bietet, die Geschwister und Freunde der jeweils anderen Stadt zu treffen. Die Einwohner der Stadt Naseling bringen zu diesem Spektakel stets die Überreste des letzten Abbruchs mit, um ein riesiges Fegefeuer zu entflammen, in dem die Toten der letzten zwölf Monate friedlich verbrannt werden. Die Moramer sorgten mit ihrer jahrmillionen alten Backkunst für süße Häppchen. Frau Peters Senior genießt ihre Stulle in der Wärme des Feuers.
+
+Sat Jun 24 14:39:19 CEST 2017

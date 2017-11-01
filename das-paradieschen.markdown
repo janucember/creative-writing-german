@@ -1,5 +1,5 @@
-# Das Paradieschen
-## 2017-06-25
+Das Paradieschen
+================
 
 Herr Friedrich Wonnemann entschied sich auf seine alten Tage dafür, noch einmal umzuziehen. Er packte seinen Besitz in drei Koffer, von denen er zwei von seinem Schulfreund Herbert auslieh, und zog ins Paradieschen. Ein Schaf, welches die Pforte besetzte, begrüßte den Neuankömmling formell und stich sich mit einem seiner Vorderbeine eine lockige Strähne seiner gewagten Frisur aus dem Gesicht. Es fragte Herrn Wonnemann, ob er eine Reservierung habe. Der Rentner wunderte sich; am Telefon habe man ihm gesagt, er solle einfach vorbeikommen. Das Schaf lächelte schelmisch -- es habe sich nur einen Scherz erlaubt. Ohne weitere Worte verließ das wollige Tier seinen Vierfüßlerstand, griff zwei der drei Koffer und bat den Mann ihm zu folgen.
 
@@ -18,3 +18,5 @@ Die Tage und dann Wochen und Monate gingne rasant vorbei. Der alte Mann war stol
 "Warum war das Briefschweinchen bei meiner Ankunft so mürrisch gelaunt gewesen?", fragte Herr Wonnemann seinen Freund. "Es ist genau so lange im Paradieschen, wie es seine Laune veranschaulicht." "Und warum genießt es nicht die Freiheit nichts zu tun?" "Es genießt doch schon die Freiheit etwas zu tun." "Aber könnte es nichts tun, wenn es nur wollte?" "Freilich", antwortete der Baum in seiner piepsigen Stimme und schaute lächelnd in das Gesicht Herrn Wonnemanns, "es könnte nichts tun, wenn es nur wollte." Der Mann fand sich damit ab, seinen Freund nicht zu verstehen und nahm sich vor, das Briefschweinchen bei der nächsten Begegnung zu fragen.
 
 Viele Jahre später erfuhr der alte Mann, dass seit Wonnemanns Ankunft niemand mehr das Briefschweinchen im Paradieschen angetroffen hatte.
+
+Sun Jun 25 14:33:40 CEST 2017
