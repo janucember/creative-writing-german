@@ -1,6 +1,6 @@
 # Kreative Texte
 
-Die Welt, wie ich sie sehe in Prosa. [http://www.jan.ink/](http://www.jan.ink/).
+Die Welt, wie ich sie sehe in Prosa. [http://www.jan.ink/](http://www.jan.ink/sammlung).
 
 ## Inhalt
 
